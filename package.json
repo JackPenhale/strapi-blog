@@ -1,4 +1,5 @@
 {
+  "name": "@fathym-it/strapi-blog",
   "dependencies": {
     "@strapi/plugin-graphql": "^4.0.5",
     "fs-extra": "^10.0.0",
@@ -9,7 +10,6 @@
     "@strapi/plugin-i18n": "4.1.12",
     "mysql": "2.18.1"
   },
-  "name": "front",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
