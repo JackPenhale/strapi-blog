@@ -7,9 +7,9 @@
     "@strapi/strapi": "4.1.12",
     "@strapi/plugin-users-permissions": "4.1.12",
     "@strapi/plugin-i18n": "4.1.12",
-    "better-sqlite3": "7.4.6"
+    "mysql": "2.18.1"
   },
-  "name": "fathym-it-strapi-blog",
+  "name": "front",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -24,7 +24,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "9f118230-ff2f-4ed1-bcd0-c16b75d086d1",
+    "uuid": "426406d7-ad57-41dc-898e-b3690bae594e",
     "template": "blog"
   },
   "engines": {
